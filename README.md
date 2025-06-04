@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 I have a Bachelor's degree of Computer Science from [University of Versailles Saint-Quentin-en-Yvelines](https://www.uvsq.fr/licence-informatique).
-I am currently studying High Performance Computing at [Paris-Saclay University](http://chps.uvsq.fr/) and preparing a Master's degree.
+I obtained the High Performance Computing & Simulation Master's degree of [Paris-Saclay University](http://chps.uvsq.fr/).
+Now, I am working on a PGAS implementation at the CEA.
 
 ### Worked on 
 
 - Exploring ABI proposals for MPI standard at French Alternative Energies and Atomic Energy Commission (CEA)
+- Optimizing parallelization parameters choices of sparse linear algebra libraries using the automatic tool MLKAPS at LIPARAD
 
 ### Centres of interests
 
@@ -17,12 +19,13 @@ I am currently studying High Performance Computing at [Paris-Saclay University](
 
 - [Zig](https://ziglang.org) programming language
 
-### Programming language
+### Programming languages
 
 - Mainly C
 - C++
 - Zig
 - Rust
+- Python
 - Bash
 
 <div align='center'>
